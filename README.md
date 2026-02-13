@@ -29,11 +29,11 @@ you may use these account credentials to skip authentication
 
 ### How to register
 - Click **Register** link in the navigation menu on top of the page
-- Enter any email that contains this symbol @
-- Enter name that less than 128 symbols
-- Enter last name that less than 128 symbols
-- Enter password that has atlest 6 symbols and not more than 100 symbols and contains 1 non-alphanumeric character
-- Repeat password
+  - Enter email (must contain @)
+  - Enter name (maximum 128 characters)
+  - Enter last name  (maximum 128 characters)
+  - Enter password  (minimum 2 characters,maximum 128 characters and 1 non-alphanumeric character)
+  - Repeat password
 - Click **Submit**
 - Home Page will appear
 
@@ -44,7 +44,7 @@ you may use these account credentials to skip authentication
 
 ## User`s GPS Sessions Page
 
-Show all your maps, which you can interact
+Display the current user`s sessions, which user can interact and managae
 
 ### Create Map
 - Click **Create New**
