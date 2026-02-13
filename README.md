@@ -29,10 +29,10 @@ you may use these account credentials to skip authentication
 
 ### How to register
 - Click **Register** link in the navigation menu on top of the page
-  - Enter email (must contain @)
+  - Enter email (must contain @ character)
   - Enter name (maximum 128 characters)
   - Enter last name  (maximum 128 characters)
-  - Enter password  (minimum 2 characters,maximum 128 characters and 1 non-alphanumeric character)
+  - Enter password  (minimum 2 characters, maximum 128 characters, 1 non-alphanumeric character)
   - Repeat password
 - Click **Submit**
 - Home Page will appear
@@ -46,31 +46,30 @@ you may use these account credentials to skip authentication
 
 Display the current user`s sessions, which user can interact and managae
 
-### Create Map
+### Create GPS Session
 - Click **Create New**
-- Enter name that must contains atleast 2 symbols and less than 257
-- Enter description that must contains atleast 2 symbols and less than 4097
-- Click on the field below **Session Type** to choose it
-- Enter Pace Min that must be equally or more than 60
-- Enter Pace Max that must be more than Pace Min
+  - Enter name (minimum 2 characters, maximum 128 characters)
+  - Enter description (minimum 2 characters, maximum 128 characters)
+  - Click on the field below **Session Type**
+  - Enter Pace Min (>= 60)
+  - Enter Pace Max (must be greater than Pace Min)
 - Click **Create**
 
 ### Map Interaction
 - Click **Map view**
-- Map page will appear
-- Can scroll up or down to make map bigger or smaller
+- Scroll up or down to zoom in or zoom out
 - Click on the map to add marker
 - Click another one to create one more marker
-- Now appear route first marker is the start and final added marker is end
-- Click on the marker to delete it
-- Drag marker to update it location
+- Appear route first marker is the starting point and final added marker is ending point
+- Click a marker to delete it
+- Drag marker to change lcoation
 
-### Update Map
+### Update GPS Session
 - Click **Update**
-- Modify fields
+- Modify session fields
 - Click **Edit*
 
-### Delete Map
+### Delete GPS Session
 - Click **Delete**
 - Notification will appear
 - Click **OK**
