@@ -14,4 +14,4 @@ npm install
 npm run dev
 ```
 - Control + left click on the local link
-- Home page will appear
+- Login page will appear
