@@ -23,8 +23,8 @@ you may use these account credentials to skip authentication
 - Password: Foobar.1
 
 ### How to login
-- Enter your Email
-- Enter your Password
+- Enter your email
+- Enter your password
 - Click **Submit**
 
 ### How to register
